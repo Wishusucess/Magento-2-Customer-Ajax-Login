@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Source      Wishusucess
+ * package     Wishusucess_CustomerAccount
+ * Author      Wishusucess Magento Development Team
+ * website     https://www.wishusucess.com/
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="wishusucess" frontName="wishusucess">
+            <module name="Wishusucess_CustomerAccount"/>
+        </route>
+    </router>
+</config>
